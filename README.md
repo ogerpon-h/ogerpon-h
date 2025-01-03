@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--🏫 Student at EPITA Toulouse
+- 🏫 Student at EPITA Toulouse
 - 🆚 Pokémon VGC player
 - 🇫🇷/🇺🇸 OK!
